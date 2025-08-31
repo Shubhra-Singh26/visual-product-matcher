@@ -1,0 +1,659 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Sneakers",
+    "category": "shoes",
+    "price": 7499,
+    "image": "/images/white-sneakers.jpeg",
+    "description": "Comfortable sneakers with a clean look.",
+    "rating": 4.7,
+    "stock": 93
+  },
+  {
+    "id": 2,
+    "name": "Black Leather Boots",
+    "category": "shoes",
+    "price": 16599,
+    "image": "/images/black-leather-boots.jpeg",
+    "description": "Durable boots perfect for outdoor wear.",
+    "rating": 4.7,
+    "stock": 47
+  },
+  {
+    "id": 3,
+    "name": "Pink Running Shoes",
+    "category": "shoes",
+    "price": 9979,
+    "image": "/images/pink-running-shoes.jpeg",
+    "description": "Lightweight running shoes for workouts.",
+    "rating": 4.1,
+    "stock": 57
+  },
+  {
+    "id": 4,
+    "name": "Blue Denim Jacket",
+    "category": "clothing",
+    "price": 10799,
+    "image": "/images/blue-denim-jacket.jpeg",
+    "description": "Trendy denim jacket with classic fit.",
+    "rating": 4.7,
+    "stock": 93
+  },
+  {
+    "id": 5,
+    "name": "Red Cotton T-Shirt",
+    "category": "clothing",
+    "price": 2499,
+    "image": "/images/red-cotton-tshirt.jpeg",
+    "description": "Soft cotton t-shirt for daily use.",
+    "rating": 4.4,
+    "stock": 31
+  },
+  {
+    "id": 6,
+    "name": "Navy Blue Hoodie",
+    "category": "clothing",
+    "price": 5819,
+    "image": "/images/navy-blue-hoodie.jpeg",
+    "description": "Cozy hoodie with adjustable drawstrings.",
+    "rating": 4.2,
+    "stock": 47
+  },
+  {
+    "id": 7,
+    "name": "Brown Leather Handbag",
+    "category": "accessories",
+    "price": 13299,
+    "image": "/images/brown-leather-handbag.jpeg",
+    "description": "Stylish leather handbag with compartments.",
+    "rating": 3.8,
+    "stock": 45
+  },
+  {
+    "id": 8,
+    "name": "Green Canvas Backpack",
+    "category": "accessories",
+    "price": 6649,
+    "image": "/images/green-canvas-backpack.jpeg",
+    "description": "Durable backpack ideal for travel.",
+    "rating": 4.4,
+    "stock": 37
+  },
+  {
+    "id": 9,
+    "name": "Black High-Top Sneakers",
+    "category": "shoes",
+    "price": 8299,
+    "image": "/images/black-high-top-sneakers.jpeg",
+    "description": "Trendy high-top sneakers.",
+    "rating": 4.7,
+    "stock": 54
+  },
+  {
+    "id": 10,
+    "name": "Brown Oxford Dress Shoes",
+    "category": "shoes",
+    "price": 14999,
+    "image": "/images/brown-oxford-dress-shoes.jpeg",
+    "description": "Elegant shoes for formal occasions.",
+    "rating": 3.9,
+    "stock": 53
+  },
+  {
+    "id": 11,
+    "name": "White Canvas Shoes",
+    "category": "shoes",
+    "price": 4999,
+    "image": "/images/white-canvas-shoes.jpeg",
+    "description": "Casual white canvas shoes.",
+    "rating": 4.9,
+    "stock": 57
+  },
+  {
+    "id": 12,
+    "name": "Red Basketball Shoes",
+    "category": "shoes",
+    "price": 11999,
+    "image": "/images/red-basketball-shoes.jpeg",
+    "description": "Basketball shoes with high grip sole.",
+    "rating": 4.9,
+    "stock": 80
+  }
+  ,
+  {
+    "id": 13,
+    "name": "Blue Running Shoes",
+    "category": "shoes",
+    "price": 9499,
+    "image": "/images/blue-running-shoes.jpeg",
+    "description": "Comfortable running shoes.",
+    "rating": 4.1,
+    "stock": 36
+  },
+  {
+    "id": 14,
+    "name": "Gray Hiking Boots",
+    "category": "shoes",
+    "price": 18999,
+    "image": "/images/gray-hiking-boots.jpeg",
+    "description": "Durable boots for trekking and hiking.",
+    "rating": 3.5,
+    "stock": 86
+  },
+  {
+    "id": 15,
+    "name": "Yellow Rain Boots",
+    "category": "shoes",
+    "price": 3999,
+    "image": "/images/yellow-rain-boots.jpeg",
+    "description": "Waterproof rain boots.",
+    "rating": 4.1,
+    "stock": 24
+  },
+  {
+    "id": 16,
+    "name": "Black Leather Jacket",
+    "category": "clothing",
+    "price": 19999,
+    "image": "/images/black-leather-jacket.jpeg",
+    "description": "Stylish leather jacket.",
+    "rating": 4.2,
+    "stock": 18
+  },
+  {
+    "id": 17,
+    "name": "White Button-Up Shirt",
+    "category": "clothing",
+    "price": 3999,
+    "image": "/images/white-button-up-shirt.jpeg",
+    "description": "Formal button-up shirt.",
+    "rating": 4.1,
+    "stock": 75
+  },
+  {
+    "id": 18,
+    "name": "Green Cargo Pants",
+    "category": "clothing",
+    "price": 6999,
+    "image": "/images/green-cargo-pants.jpeg",
+    "description": "Comfortable cargo pants with pockets.",
+    "rating": 4.3,
+    "stock": 14
+  },
+  {
+    "id": 19,
+    "name": "Purple Sweater",
+    "category": "clothing",
+    "price": 4999,
+    "image": "/images/purple-sweater.jpeg",
+    "description": "Warm wool sweater.",
+    "rating": 4.3,
+    "stock": 77
+  },
+  {
+    "id": 20,
+    "name": "Gray Sweatpants",
+    "category": "clothing",
+    "price": 3499,
+    "image": "/images/gray-sweatpants.jpeg",
+    "description": "Casual sweatpants for gym.",
+    "rating": 4.6,
+    "stock": 92
+  },
+  {
+    "id": 21,
+    "name": "Yellow Summer Dress",
+    "category": "clothing",
+    "price": 7999,
+    "image": "/images/yellow-summer-dress.jpeg",
+    "description": "Light summer dress.",
+    "rating": 3.8,
+    "stock": 97
+  },
+  {
+    "id": 22,
+    "name": "Blue Jeans",
+    "category": "clothing",
+    "price": 5999,
+    "image": "/images/classic-blue-jeans.jpeg",
+    "description": "Classic fit blue jeans.",
+    "rating": 3.9,
+    "stock": 72
+  },
+  {
+    "id": 23,
+    "name": "Black Blazer",
+    "category": "clothing",
+    "price": 12999,
+    "image": "/images/black-blazer.jpeg",
+    "description": "Formal black blazer.",
+    "rating": 4.6,
+    "stock": 21
+  },
+  {
+    "id": 24,
+    "name": "Red Polo Shirt",
+    "category": "clothing",
+    "price": 3999,
+    "image": "/images/red-polo-shirt.jpeg",
+    "description": "Casual red polo shirt.",
+    "rating": 4.5,
+    "stock": 50
+  }
+,
+  {
+    "id": 25,
+    "name": "Orange Tank Top",
+    "category": "clothing",
+    "price": 1999,
+    "image": "/images/orange-tank-top.jpeg",
+    "description": "Sleeveless cotton tank top.",
+    "rating": 3.6,
+    "stock": 68
+  },
+  {
+    "id": 26,
+    "name": "Silver Watch",
+    "category": "accessories",
+    "price": 24999,
+    "image": "/images/silver-wristwatch.jpeg",
+    "description": "Stylish wristwatch.",
+    "rating": 4.0,
+    "stock": 34
+  },
+  {
+    "id": 27,
+    "name": "Black Sunglasses",
+    "category": "accessories",
+    "price": 8999,
+    "image": "/images/black-sunglasses.jpeg",
+    "description": "UV-protected sunglasses.",
+    "rating": 4.2,
+    "stock": 60
+  },
+  {
+    "id": 28,
+    "name": "Red Baseball Cap",
+    "category": "accessories",
+    "price": 2999,
+    "image": "/images/red-baseball-cap.jpeg",
+    "description": "Adjustable red baseball cap.",
+    "rating": 3.6,
+    "stock": 36
+  },
+  {
+    "id": 29,
+    "name": "Blue Scarf",
+    "category": "accessories",
+    "price": 3499,
+    "image": "/images/blue-scarf.jpeg",
+    "description": "Warm wool scarf.",
+    "rating": 4.7,
+    "stock": 40
+  },
+  {
+    "id": 30,
+    "name": "Black Belt",
+    "category": "accessories",
+    "price": 4999,
+    "image": "/images/black-leather-belt.jpeg",
+    "description": "Leather belt for all occasions.",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 31,
+    "name": "Gold Necklace",
+    "category": "accessories",
+    "price": 15999,
+    "image": "/images/gold-necklace.jpeg",
+    "description": "Gold plated necklace.",
+    "rating": 4.0,
+    "stock": 79
+  },
+  {
+    "id": 32,
+    "name": "Pink Purse",
+    "category": "accessories",
+    "price": 9999,
+    "image": "/images/pink-purse.jpeg",
+    "description": "Trendy pink purse.",
+    "rating": 5.0,
+    "stock": 91
+  },
+  {
+    "id": 33,
+    "name": "Gray Wallet",
+    "category": "accessories",
+    "price": 3999,
+    "image": "/images/gray-wallet.jpeg",
+    "description": "Leather wallet.",
+    "rating": 3.6,
+    "stock": 85
+  },
+  {
+    "id": 34,
+    "name": "Black Smartphone",
+    "category": "electronics",
+    "price": 49999,
+    "image": "/images/black-smartphone.jpeg",
+    "description": "Latest smartphone with HD display.",
+    "rating": 3.7,
+    "stock": 77
+  },
+  {
+    "id": 35,
+    "name": "White Headphones",
+    "category": "electronics",
+    "price": 12999,
+    "image": "/images/white-headphones.jpeg",
+    "description": "Wireless headphones with noise cancellation.",
+    "rating": 5.0,
+    "stock": 33
+  },
+  {
+    "id": 36,
+    "name": "Silver Laptop",
+    "category": "electronics",
+    "price": 89999,
+    "image": "/images/silver-laptop.jpeg",
+    "description": "High performance laptop.",
+    "rating": 4.2,
+    "stock": 30
+  },
+  {
+    "id": 37,
+    "name": "Blue Bluetooth Speaker",
+    "category": "electronics",
+    "price": 7999,
+    "image": "/images/blue-bluetooth-speaker.jpeg",
+    "description": "Portable Bluetooth speaker.",
+    "rating": 3.8,
+    "stock": 26
+  },
+  {
+    "id": 38,
+    "name": "Black Gaming Mouse",
+    "category": "electronics",
+    "price": 4999,
+    "image": "/images/black-gaming-mouse.jpeg",
+    "description": "High precision gaming mouse.",
+    "rating": 4.6,
+    "stock": 83
+  },
+  {
+    "id": 39,
+    "name": "White Tablet",
+    "category": "electronics",
+    "price": 29999,
+    "image": "/images/white-tablet.jpeg",
+    "description": "Lightweight tablet with HD screen.",
+    "rating": 3.9,
+    "stock": 17
+  },
+  {
+    "id": 40,
+    "name": "Red Coffee Mug",
+    "category": "home",
+    "price": 999,
+    "image": "/images/red-coffee-mug.jpeg",
+    "description": "Ceramic coffee mug.",
+    "rating": 4.5,
+    "stock": 65
+  },
+  {
+    "id": 41,
+    "name": "White Ceramic Vase",
+    "category": "home",
+    "price": 3999,
+    "image": "/images/white-ceramic-vase.jpeg",
+    "description": "Decorative ceramic vase.",
+    "rating": 4.6,
+    "stock": 80
+  },
+  {
+    "id": 42,
+    "name": "Blue Throw Pillow",
+    "category": "home",
+    "price": 1999,
+    "image": "/images/blue-throw-pillow.jpeg",
+    "description": "Soft throw pillow.",
+    "rating": 4.0,
+    "stock": 100
+  },
+  {
+    "id": 43,
+    "name": "Green Plant Pot",
+    "category": "home",
+    "price": 1499,
+    "image": "/images/green-plant-pot.jpeg",
+    "description": "Decorative plant pot.",
+    "rating": 4.1,
+    "stock": 44
+  },
+  {
+    "id": 44,
+    "name": "Black Picture Frame",
+    "category": "home",
+    "price": 2499,
+    "image": "/images/black-picture-frame.jpeg",
+    "description": "Wooden picture frame.",
+    "rating": 5.0,
+    "stock": 24
+  },
+  {
+    "id": 45,
+    "name": "Yellow Table Lamp",
+    "category": "home",
+    "price": 5999,
+    "image": "/images/yellow-table-lamp.jpeg",
+    "description": "Modern table lamp.",
+    "rating": 4.1,
+    "stock": 79
+  },
+  {
+    "id": 46,
+    "name": "Blue Yoga Mat",
+    "category": "sports",
+    "price": 2999,
+    "image": "/images/blue-yoga-mat.jpeg",
+    "description": "Non-slip yoga mat.",
+    "rating": 3.7,
+    "stock": 43
+  },
+  {
+    "id": 47,
+    "name": "Red Water Bottle",
+    "category": "sports",
+    "price": 1499,
+    "image": "/images/red-water-bottle.jpeg",
+    "description": "Reusable water bottle.",
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 48,
+    "name": "Black Dumbbells",
+    "category": "sports",
+    "price": 8999,
+    "image": "/images/black-dumbbells.jpeg",
+    "description": "Pair of dumbbells for workout.",
+    "rating": 4.6,
+    "stock": 41
+  }
+,
+  {
+    "id": 49,
+    "name": "Green Tennis Ball",
+    "category": "sports",
+    "price": 299,
+    "image": "/images/green-tennis-ball.jpeg",
+    "description": "Pack of tennis balls.",
+    "rating": 3.9,
+    "stock": 59
+  },
+  {
+    "id": 50,
+    "name": "Orange Basketball",
+    "category": "sports",
+    "price": 1999,
+    "image": "/images/orange-basketball.jpeg",
+    "description": "Durable basketball.",
+    "rating": 4.7,
+    "stock": 98
+  },
+  {
+    "id": 51,
+    "name": "Blue Notebook",
+    "category": "books",
+    "price": 799,
+    "image": "/images/blue-notebook.jpeg",
+    "description": "Spiral-bound notebook.",
+    "rating": 4.6,
+    "stock": 11
+  },
+  {
+    "id": 52,
+    "name": "Black Pen Set",
+    "category": "books",
+    "price": 1999,
+    "image": "/images/black-pen-set.jpeg",
+    "description": "Set of black ink pens.",
+    "rating": 3.6,
+    "stock": 89
+  },
+  {
+    "id": 53,
+    "name": "Apple AirPods Pro",
+    "category": "electronics",
+    "price": 24999,
+    "image": "/images/apple-airpods-pro.jpeg",
+    "description": "Wireless earbuds with noise cancellation.",
+    "rating": 3.5,
+    "stock": 17
+  },
+  {
+    "id": 54,
+    "name": "Velvet Sofa",
+    "category": "furniture",
+    "price": 45999,
+    "image": "/images/velvet-sofa.jpeg",
+    "description": "Luxurious velvet sofa with premium cushioning.",
+    "rating": 3.8,
+    "stock": 93
+  },
+  {
+    "id": 55,
+    "name": "Wooden Dining Table",
+    "category": "furniture",
+    "price": 29999,
+    "image": "/images/wooden-dining-table.jpeg",
+    "description": "Spacious wooden dining table.",
+    "rating": 4.4,
+    "stock": 86
+  },
+  {
+    "id": 56,
+    "name": "Action Figure Set",
+    "category": "toys",
+    "price": 3499,
+    "image": "/images/action-figure-set.jpeg",
+    "description": "Set of superhero action figures.",
+    "rating": 3.6,
+    "stock": 61
+  },
+  {
+    "id": 57,
+    "name": "Barbie Doll",
+    "category": "toys",
+    "price": 2299,
+    "image": "/images/barbie-doll.jpeg",
+    "description": "Classic Barbie doll with accessories.",
+    "rating": 4.8,
+    "stock": 21
+  },
+  {
+    "id": 58,
+    "name": "Organic Coffee Beans",
+    "category": "groceries",
+    "price": 899,
+    "image": "/images/organic-coffee-beans.jpeg",
+    "description": "Premium organic coffee beans.",
+    "rating": 4.4,
+    "stock": 27
+  },
+  {
+    "id": 59,
+    "name": "Basmati Rice 5kg",
+    "category": "groceries",
+    "price": 699,
+    "image": "/images/basmati-rice.jpeg",
+    "description": "Long-grain basmati rice.",
+    "rating": 4.0,
+    "stock": 39
+  },
+  {
+    "id": 60,
+    "name": "Lipstick Set",
+    "category": "beauty",
+    "price": 1599,
+    "image": "/images/lipstick-set.jpeg",
+    "description": "Pack of 5 long-lasting lipsticks.",
+    "rating": 4.8,
+    "stock": 49
+  },
+  {
+    "id": 61,
+    "name": "Perfume Spray",
+    "category": "beauty",
+    "price": 2999,
+    "image": "/images/perfume-spray.jpeg",
+    "description": "Refreshing perfume spray.",
+    "rating": 5.0,
+    "stock": 88
+  },
+  {
+    "id": 62,
+    "name": "Face Moisturizer",
+    "category": "beauty",
+    "price": 799,
+    "image": "/images/face-moisturizer.jpeg",
+    "description": "Hydrating face moisturizer.",
+    "rating": 4.2,
+    "stock": 40
+  },
+  {
+    "id": 63,
+    "name": "Toy Train Set",
+    "category": "toys",
+    "price": 1999,
+    "image": "/images/toy-train.jpeg",
+    "description": "Electric toy train set with tracks.",
+    "rating": 4.9,
+    "stock": 55
+  },
+  {
+    "id": 64,
+    "name": "Office Chair",
+    "category": "furniture",
+    "price": 7999,
+    "image": "/images/office-chair.jpeg",
+    "description": "Ergonomic office chair with adjustable height.",
+    "rating": 4.2,
+    "stock": 29
+  },
+  {
+    "id": 65,
+    "name": "Chocolate Cookies",
+    "category": "groceries",
+    "price": 299,
+    "image": "/images/chocolate-cookies.jpeg",
+    "description": "Crunchy chocolate cookies.",
+    "rating": 4.1,
+    "stock": 46
+  }
+]
+
+
+
+
